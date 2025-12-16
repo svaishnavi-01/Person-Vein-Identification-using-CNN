@@ -17,3 +17,14 @@ NumPy
 Scikit-learn
 
 Matplotlib
+
+📁 Project Structure
+FingerVein/
+│── Dataset/              # Dataset folder (not uploaded to GitHub)
+│── images/               # Output images
+│── model/                # Trained model files
+│── testImages/           # Images for testing
+│── FingerVein.py         # Main Python file
+│── run.bat               # Run file (Windows)
+│── requirements.txt
+│── README.md
